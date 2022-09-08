@@ -1,0 +1,30 @@
+.grid
+{ 
+    width: 468px;
+    height: 468px;
+    display: flex;
+    flex-wrap: wrap;
+ 
+   
+    margin: 0 auto;
+}
+.square
+{
+    height: 150px;
+    width: 150px;
+    border: solid black;
+}
+.pow
+{
+    background-image: url("poki.jfif");
+    background-size: cover;
+
+}
+body
+{
+    background: linear-gradient(120deg,#2980b9,#8e44ad);
+}
+h2
+{
+    text-align: center;
+}
